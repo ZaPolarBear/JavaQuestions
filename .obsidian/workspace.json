@@ -1,0 +1,189 @@
+{
+  "main": {
+    "id": "72e548b0f8876d4d",
+    "type": "split",
+    "children": [
+      {
+        "id": "0cfee8cbf92f8183",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ce2c043358350c42",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java Core/Методы/Переопределение методов.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5697aa3918ac62ff",
+    "type": "split",
+    "children": [
+      {
+        "id": "e56eac666b2a782c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4a201b95324b1e52",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse"
+              }
+            }
+          },
+          {
+            "id": "deec96cc04e36a23",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e1fbec38d757fc8c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8f1a3df119630dce",
+    "type": "split",
+    "children": [
+      {
+        "id": "fec8fe5205355996",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a1280ca88df4d473",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Java Core/Методы/Переопределение методов.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0e651c1b1102a570",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Java Core/Методы/Переопределение методов.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a52f6cd6b8272ead",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "141152c77c8ed5c8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Java Core/Методы/Переопределение методов.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "ce2c043358350c42",
+  "lastOpenFiles": [
+    "Java Core/Методы/Передача значений методам.md",
+    "Java Core/Методы/Переопределение методов.md",
+    "Java Core/Java/Java.md",
+    "Java Core/Методы/Ключевое слово final.md",
+    "Java Core/Типы данных/Ссылочные.md",
+    "Объектные.md",
+    "Java Core/Типы данных/Примитивные.md",
+    "Java Core/Методы",
+    "Java Core/Типы данных/Типы данных.md",
+    "Java Core/Java",
+    "Java Core/Класс object/Класс Object.md",
+    "Java Core/Модификаторы/Модификаторы доступа.md",
+    "ООП/ООП(Объектно-ориентированное программирование).md",
+    "Java Core/Класс object/Equals() и hashcode().md",
+    "Java Core/Класс object/Переопределение методов object.md",
+    "Java Core/Класс object",
+    "Java Core/Без названия.md",
+    "Java Core/Модификаторы/Cтатические поля и методы.md",
+    "Java Core/Модификаторы/Конструктор.md",
+    "Java Core/Модификаторы/Инициализаторы и их виды.md",
+    "Java Core/Модификаторы/this и this().md",
+    "Java Core/Модификаторы/Перегрузка методов.md",
+    "Java Core/Модификаторы/Super().md",
+    "Java Core/Модификаторы/Значения по умолчанию.md",
+    "Java Core/Типы данных/String/StringBuffer.md",
+    "Java Core/Java/Сравнение через ==.md",
+    "Java Core/Java/Объект и класс.md",
+    "Java Core/Java/JDK (Java Development Kit).md",
+    "Java Core/Java/JVM (Java Virtual Machine).md",
+    "Java Core/Модификаторы",
+    "Java Core/Модификаторы",
+    "Java Core/Модификаторы",
+    "Java Core/Модификаторы",
+    "Автоупаковка",
+    "JavaQuestions/Java Questions/ООП",
+    "JavaQuestions/Java Questions/Java Core/Типы данных/String",
+    "Без названия.canvas"
+  ]
+}
