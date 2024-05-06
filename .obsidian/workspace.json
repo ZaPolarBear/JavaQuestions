@@ -59,24 +59,12 @@
             "id": "6970d3d03745a3ad",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hibernate and JPA/Cache levels.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7070beacf13f7a20",
-            "type": "leaf",
-            "state": {
               "type": "graph",
               "state": {}
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -199,34 +187,34 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "7070beacf13f7a20",
+  "active": "6970d3d03745a3ad",
   "lastOpenFiles": [
+    "Hibernate and JPA/Entity lifecycle.md",
+    "Hibernate and JPA/Class to entity.md",
+    "Hibernate and JPA/Hibernate.md",
+    "Hibernate and JPA/Annotation.md",
+    "Hibernate and JPA/JPA.md",
+    "Hibernate and JPA/Cache.md",
+    "Hibernate and JPA/Eager vs lazy.md",
+    "Hibernate and JPA/N+1.md",
+    "HTTP/Индепотетный запрос.md",
+    "HTTP/Структура http запроса.md",
     "SQL/SQL.md",
+    "Java Core/Многопоточность/Поток.md",
+    "Java Core/Многопоточность/Процесс.md",
+    "Java Core/Многопоточность/Notify() notifyall().md",
+    "Java Core/Многопоточность/Volatile.md",
+    "Java Core/Многопоточность/Wait().md",
     "SQL/Первые 3 степени нормализации.md",
     "SQL/Нормализация данных.md",
-    "SQL/Первичный ключ.md",
     "SQL/Индекс.md",
+    "SQL/Первичный ключ.md",
     "SQL/Внешний ключ.md",
     "SQL/Вложенные select.md",
     "SQL/Виды join'ов.md",
     "SQL/orderBy.md",
     "SQL/Агрегатные функции.md",
     "SQL/groupBy.md",
-    "Java Core/Типы данных/String/StringBuilder.md",
-    "Java Core/Типы данных/String/StringBuffer.md",
-    "Java Core/Liquibase/Database Changelog lock.md",
-    "Java Core/Liquibase/Database Changelog.md",
-    "Java Core/Git/Git.md",
-    "Java Core/Git/Rebase.md",
-    "Java Core/Git/Init.md",
-    "Java Core/Git/CherryPick.md",
-    "Java Core/Git/Pull.md",
-    "Java Core/Git/Push.md",
-    "Java Core/Git/Commit.md",
-    "Java Core/Git/Clone.md",
-    "Hibernate and JPA/Cache.md",
-    "Hibernate and JPA/Cache levels.md",
-    "Hibernate and JPA/Eager vs lazy.md",
     "Hibernate and JPA",
     "HTTP",
     "REST API",

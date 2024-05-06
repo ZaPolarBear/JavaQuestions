@@ -76,6 +76,27 @@
         "a": 1,
         "rgb": 7921746
       }
+    },
+    {
+      "query": "path:SQL  ",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "path:\"Java Core/Liquibase\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "path:\"Java Core/Git\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
     }
   ],
   "collapse-display": false,
@@ -88,6 +109,6 @@
   "repelStrength": 15.1559251559252,
   "linkStrength": 0.412681912681913,
   "linkDistance": 197,
-  "scale": 0.09392927902848137,
+  "scale": 0.04231590268975919,
   "close": false
 }
