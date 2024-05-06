@@ -36,3 +36,15 @@ Java – это кладезь библиотек машинного обуче
 [[Класс Object]]
 
 [[Ключевое слово final]]
+
+[[Класс optional()]]
+
+[[Иерархия коллекций]]
+
+[[Enum]]
+
+[[Comparable и Comparator]]
+
+[[Stream API]]
+
+[[SOLID]]
