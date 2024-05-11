@@ -97,6 +97,27 @@
         "a": 1,
         "rgb": 5431378
       }
+    },
+    {
+      "query": "path:\"Hibernate and JPA\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    },
+    {
+      "query": "path:\"REST API\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
+    },
+    {
+      "query": "path:\"Java Core/Многопоточность\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
+      }
     }
   ],
   "collapse-display": false,
@@ -109,6 +130,6 @@
   "repelStrength": 15.1559251559252,
   "linkStrength": 0.412681912681913,
   "linkDistance": 197,
-  "scale": 0.04231590268975919,
+  "scale": 0.16348370567220855,
   "close": false
 }

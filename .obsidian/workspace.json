@@ -59,12 +59,28 @@
             "id": "6970d3d03745a3ad",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Hibernate and JPA/Cache.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b9d4e29d249177f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java Core/Многопоточность/Volatile.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -130,6 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Java Core/Многопоточность/Volatile.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,6 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Java Core/Многопоточность/Volatile.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +185,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Java Core/Многопоточность/Volatile.md"
+              }
             }
           }
         ]
@@ -187,44 +207,44 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "6970d3d03745a3ad",
+  "active": "b9d4e29d249177f1",
   "lastOpenFiles": [
-    "Hibernate and JPA/Entity lifecycle.md",
-    "Hibernate and JPA/Class to entity.md",
-    "Hibernate and JPA/Hibernate.md",
-    "Hibernate and JPA/Annotation.md",
-    "Hibernate and JPA/JPA.md",
-    "Hibernate and JPA/Cache.md",
-    "Hibernate and JPA/Eager vs lazy.md",
-    "Hibernate and JPA/N+1.md",
-    "HTTP/Индепотетный запрос.md",
-    "HTTP/Структура http запроса.md",
-    "SQL/SQL.md",
-    "Java Core/Многопоточность/Поток.md",
-    "Java Core/Многопоточность/Процесс.md",
     "Java Core/Многопоточность/Notify() notifyall().md",
+    "Java Core/Многопоточность/Synchronized.md",
+    "Java Core/Многопоточность/Процесс.md",
+    "Java Core/Многопоточность/Поток.md",
+    "Java Core/Java/Java.md",
     "Java Core/Многопоточность/Volatile.md",
     "Java Core/Многопоточность/Wait().md",
-    "SQL/Первые 3 степени нормализации.md",
-    "SQL/Нормализация данных.md",
-    "SQL/Индекс.md",
-    "SQL/Первичный ключ.md",
-    "SQL/Внешний ключ.md",
-    "SQL/Вложенные select.md",
-    "SQL/Виды join'ов.md",
-    "SQL/orderBy.md",
-    "SQL/Агрегатные функции.md",
-    "SQL/groupBy.md",
+    "Java Core/Многопоточность/Race Condition и deadlock.md",
+    "Hibernate and JPA/ACID/Durability (Надёжность).md",
+    "Hibernate and JPA/ACID/Isolation (Изолированность).md",
+    "Hibernate and JPA/ACID/Consistency (Согласованность).md",
+    "Hibernate and JPA/ACID/Atomicity (Атомарность).md",
+    "Hibernate and JPA/ACID/ACID.md",
+    "REST API/REST.md",
+    "SQL/SQL.md",
+    "Без названия.canvas",
+    "Java Core/Методы/Скрывающее объявление.md",
+    "Hibernate and JPA/N+1.md",
+    "REST API/Подход Contract First к разработке REST API.md",
+    "Hibernate and JPA/ACID",
+    "Hibernate and JPA/Без названия.md",
+    "REST API/CRUD.md",
+    "REST API/Коды ошибки сервера.md",
+    "REST API/Неуспешные ответы сервера.md",
+    "REST API/Коды HTTP-ответа сервера при перенаправлении запроса.md",
+    "REST API/Успешные HTTP-ответы сервера.md",
+    "REST API/POST vs PUT.md",
+    "REST API/Методы HTTP-запросов.md",
     "Hibernate and JPA",
-    "HTTP",
+    "REST API/HTTP",
     "REST API",
     "DDD TDD BDD",
     "SQL",
     "Java Core/Git",
     "Java Core/Многопоточность",
     "Java Core/Liqudbase/Без названия",
-    "Java Core/Liquibase",
-    "SOLID",
-    "Без названия.canvas"
+    "Java Core/Liquibase"
   ]
 }

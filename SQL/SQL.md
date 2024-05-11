@@ -11,3 +11,9 @@ SQL (Structured Query Language) - это язык программировани
 [[Нормализация данных]]
 [[Первые 3 степени нормализации]]
 [[Первичный ключ]]
+
+[[Hibernate]]
+
+[[JPA]]
+
+[[Database Changelog]]
