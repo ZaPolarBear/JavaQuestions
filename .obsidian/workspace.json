@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java Core/Многопоточность/Volatile.md",
+                "file": "Spring/Spring.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java Core/Многопоточность/Volatile.md",
+                "file": "Spring/Spring.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java Core/Многопоточность/Volatile.md",
+                "file": "Spring/Spring.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java Core/Многопоточность/Volatile.md"
+                "file": "Spring/Spring.md"
               }
             }
           }
@@ -209,12 +209,19 @@
   },
   "active": "b9d4e29d249177f1",
   "lastOpenFiles": [
+    "Spring/Spring.md",
+    "Spring/Cloud",
+    "Spring/Security",
+    "Spring/Data",
+    "Spring/MVC",
+    "Spring/Boot",
+    "Spring",
+    "Java Core/Многопоточность/Volatile.md",
     "Java Core/Многопоточность/Notify() notifyall().md",
     "Java Core/Многопоточность/Synchronized.md",
     "Java Core/Многопоточность/Процесс.md",
     "Java Core/Многопоточность/Поток.md",
     "Java Core/Java/Java.md",
-    "Java Core/Многопоточность/Volatile.md",
     "Java Core/Многопоточность/Wait().md",
     "Java Core/Многопоточность/Race Condition и deadlock.md",
     "Hibernate and JPA/ACID/Durability (Надёжность).md",
@@ -235,16 +242,8 @@
     "REST API/Неуспешные ответы сервера.md",
     "REST API/Коды HTTP-ответа сервера при перенаправлении запроса.md",
     "REST API/Успешные HTTP-ответы сервера.md",
-    "REST API/POST vs PUT.md",
-    "REST API/Методы HTTP-запросов.md",
     "Hibernate and JPA",
     "REST API/HTTP",
-    "REST API",
-    "DDD TDD BDD",
-    "SQL",
-    "Java Core/Git",
-    "Java Core/Многопоточность",
-    "Java Core/Liqudbase/Без названия",
-    "Java Core/Liquibase"
+    "REST API"
   ]
 }
