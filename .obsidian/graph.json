@@ -118,6 +118,13 @@
         "a": 1,
         "rgb": 5395168
       }
+    },
+    {
+      "query": "path:Spring  ",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
+      }
     }
   ],
   "collapse-display": false,
@@ -130,6 +137,6 @@
   "repelStrength": 15.1559251559252,
   "linkStrength": 0.412681912681913,
   "linkDistance": 197,
-  "scale": 0.22920135941749978,
+  "scale": 0.08317427835927584,
   "close": false
 }
