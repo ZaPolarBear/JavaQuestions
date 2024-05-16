@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java Core/Java/Java.md",
+                "file": "Java Core/Типы данных/Примитивные.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java Core/Java/Java.md",
+                "file": "Java Core/Типы данных/Примитивные.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java Core/Java/Java.md",
+                "file": "Java Core/Типы данных/Примитивные.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java Core/Java/Java.md"
+                "file": "Java Core/Типы данных/Примитивные.md"
               }
             }
           }
@@ -209,32 +209,32 @@
   },
   "active": "b9d4e29d249177f1",
   "lastOpenFiles": [
-    "Java Core/Java/Сборщик мусора.md",
-    "Java Core/Java/Класс optional().md",
-    "Java Core/Java/Enum.md",
-    "Java Core/Java/Память.md",
-    "Java Core/Java/Java.md",
-    "Java Core/Коллекции/ArrayList vs LinkedList.md",
-    "Java Core/Коллекции/Hashmap.md",
-    "Java Core/Java/JDK (Java Development Kit).md",
-    "Java Core/Java/JVM (Java Virtual Machine).md",
-    "Java Core/Java/JRE (Java Runtime Enviroment).md",
-    "Spring/Grafana.md",
-    "Spring/Prometheus.md",
-    "Spring/Kafka.md",
-    "Java Core/Исключения/NullPointerException.md",
-    "Spring/Скоупы.md",
-    "Java Core/Класс object/Equals() и hashcode().md",
-    "Java Core/Класс object/Переопределение методов object.md",
-    "Java Core/Класс object/Класс Object.md",
-    "Java Core/Исключения/Иерархия исключений.md",
-    "Java Core/Исключения/Try catch.md",
-    "Java Core/Исключения/Try cath finally.md",
-    "Java Core/Исключения/Проверяемые и непроверяемые исключения.md",
-    "Java Core/Исключения/throw vs throws.md",
+    "Java Core/Типы данных/Типы данных.md",
+    "Java Core/Типы данных/Примитивные.md",
+    "Java Core/Модификаторы/Cтатические поля и методы.md",
+    "Java Core/Модификаторы/this и this().md",
+    "Java Core/Модификаторы/Инициализаторы и их виды.md",
+    "Java Core/Модификаторы/Super().md",
+    "Java Core/Модификаторы/Конструктор.md",
+    "Java Core/Модификаторы/Перегрузка методов.md",
+    "Java Core/Модификаторы/Значения по умолчанию.md",
+    "Java Core/Модификаторы/Область видимости.md",
+    "Java Core/Модификаторы/Виды переменных.md",
+    "Java Core/Модификаторы/Модификаторы доступа.md",
     "Java Core/Исключения/Try with resources.md",
     "Java Core/Исключения/Try finally.md",
-    "Spring/Аннотации.md",
+    "Java Core/Исключения/Try catch.md",
+    "Java Core/Исключения/Try cath finally.md",
+    "Java Core/Исключения/Иерархия исключений.md",
+    "ООП/Инкапсуляция.md",
+    "ООП/Полиморфизм.md",
+    "ООП/Наследование.md",
+    "ООП/Абстракция.md",
+    "Hibernate and JPA/JPA.md",
+    "Hibernate and JPA/Hibernate.md",
+    "Hibernate and JPA/Class to entity.md",
+    "Hibernate and JPA/Entity lifecycle.md",
+    "SOLID/Принцип инверсии зависимостей.md",
     "Spring/Cloud",
     "Spring/Security",
     "Spring/Data",
